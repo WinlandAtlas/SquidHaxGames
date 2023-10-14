@@ -1,3 +1,9 @@
+# Quick Info:
+
+- DEVSev: Configuracion que se usó para el servidor de Developmet
+
+- RELServ: Configuracion con la Cual se jugó el evento.
+
 # Lista de Plugins:
 
 - ComfyWhitelist-1.3.0-standalone.jar
