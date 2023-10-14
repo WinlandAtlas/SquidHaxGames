@@ -11,10 +11,10 @@ Este proyecto esta licenciado bajo CC-BY-4.0 (Creative Commons Attribution 4.0 I
 
 # ESTE REPOSITORIO NO CONTIENE
 
-- El Cliente
+- El Cliente:
 Por cuestiones legales no podemos atribuir el cliente a Este repositorio, Sin embargo el Link de descarga de este se encuentra aquí y cualquiera puede modificarlo.
 
-- Plugins
+- Plugins:
 Por cuestiones legales no podemos dar los binarios de estos sin embargo en la carpeta de ServerConfig se Encuentra un README con la lista de Plugins que se han usado para el evento.
 
 - Imagenes promocionales o cualquier otro material que no sea relacionado al desarrollo de Squid Hax Games.
@@ -29,6 +29,6 @@ Por cuestiones legales no podemos dar los binarios de estos sin embargo en la ca
 
 # TODO README
 
-A bref desc of what the repo has
-IMGs and Links
-Checkmarks
+- A bref desc of what the repo has
+- IMGs and Links
+- Checkmarks
