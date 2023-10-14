@@ -1,0 +1,25 @@
+[server.pv.addon.discs.usage]
+burn = "&cUsage: /discs burn <url> [label]"
+[server.pv.addon.discs.format]
+search_entry = "&e%1$s &7by %2$s"
+[server.pv.addon.discs.error]
+search_fail = "&cFailed to get the search result: %s"
+erase_wrong_item = "&cCan't erase this item"
+not_a_record = "&cYou need have a record in your hand to burn it"
+unknown_subcommand = "&cUnknown subcommand. Available commands: %s"
+not_burnable = "&cThis record is not burnable"
+no_permission = "&cNo permission"
+get_track_fail = "&cFailed to get the track: %s"
+[server.pv.addon.discs.actionbar]
+track_not_found = "Track not found: %s"
+playing = "Now playing: %s"
+loading = "Loading..."
+[server.pv.addon.discs.success]
+burn = "&aDisc burned. Label: %s"
+erase = "&aCustom audio erased"
+[server.pv.addon.discs.arg]
+search = "<search>"
+label = "[label]"
+url = "<url>"
+[client.pv.activation]
+discs = "Discs"

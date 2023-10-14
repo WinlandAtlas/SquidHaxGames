@@ -1,0 +1,30 @@
+[server.pv.addon.discs.error]
+erase_wrong_item = "&cЭтот предмет нельзя очистить"
+get_track_fail = "&cНе получилось получить трек: %s"
+search_fail = "&cНе удалось получить результат поиска: %s"
+not_a_record = "&cЧтобы прожечь диск вам нужно держать его в руке"
+unknown_subcommand = "&cТакой команды нет. Доступные команды: %s"
+no_permission = "&cНет прав"
+
+[server.pv.addon.discs.usage]
+burn = "&cИспользование: /disc burn <ссылка> [название]"
+
+[server.pv.addon.discs.arg]
+url = "<ссылка>"
+label = "[название]"
+search = "<поиск>"
+
+[server.pv.addon.discs.actionbar]
+track_not_found = "Трек не найден: %s"
+playing = "Сейчас играет: %s"
+loading = "Загружаем..."
+
+[server.pv.addon.discs.success]
+erase = "&aДиск очищен"
+burn = "&aДиск прожжен. Название: %s"
+
+[server.pv.addon.discs.format]
+search_entry = "&e%1$s. &7Автор: %2$s"
+
+[client.pv.activation]
+discs = "Пластинки"
