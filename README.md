@@ -31,17 +31,17 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 
 [2.3](https://github.com/WinlandAtlas/SquidHaxGames/blob/main/ResourcePacks/2.3ByPlayxs.zip):
 
--Rifle y sus variaciones,
+- Rifle y sus variaciones,
 
--Trajes de jugadores,
+- Trajes de jugadores,
 
--Barra de vida personalizada,
+- Barra de vida personalizada,
 
--Eliminación de partículas y sonidos del Sonic Boom del Warden,
+- Eliminación de partículas y sonidos del Sonic Boom del Warden,
 
--Linterna,
+- Linterna,
 
--Máscaras de guardias
+- Máscaras de guardias
 
 # TO DO README
 
