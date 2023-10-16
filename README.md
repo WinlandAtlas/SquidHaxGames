@@ -43,6 +43,18 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 
 - Máscaras de guardias
 
+[SHG](https://github.com/WinlandAtlas/SquidHaxGames/blob/main/ResourcePacks/shgGuiAndFixesByWincohax.zip):
+
+- Botones,
+
+- Interfaz de inventario,
+
+- Modificaciones a bloques,
+
+- Sonidos,
+
+- Varios Bugs Arreglados
+
 # TO DO README
 
 - A bref desc of what the repo has
