@@ -56,7 +56,5 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 - Varios Bugs Arreglados
 
 # TO DO README
-
-- A bref desc of what the repo has
 - IMGs and Links
-- Checkmarks
+- Credits
