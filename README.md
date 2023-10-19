@@ -31,23 +31,30 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 
 [2.3](https://github.com/WinlandAtlas/SquidHaxGames/blob/main/ResourcePacks/2.3ByPlayxs.zip):
 
-- Rifle y sus variaciones,
+- [Rifle y sus variaciones,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/6ba75644-53c1-4c89-a62c-a005d9b3cfc8)
 
-- Trajes de jugadores,
 
-- Barra de vida personalizada,
+- [Trajes de jugadores,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/61d8fda6-6044-497f-8c50-55b91189be23)
 
-- Eliminación de partículas y sonidos del Sonic Boom del Warden,
 
-- Linterna,
+- [Barra de vida personalizada,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/5bcf650b-f4b6-42e4-93b0-b04311d5e910)
 
-- Máscaras de guardias
+
+- [Linterna,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/d85e72e6-c5e4-43a5-a9f7-7429eab69271)
+
+- [Máscaras de guardias,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/6c979b5b-e113-42c5-b257-69fad191e5a8)
+
+
+- [Créditos y poema del end,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/7268c49e-79ab-453c-a7f0-0e582f005ce9)
+
+- Eliminación de partículas y sonidos del Sonic Boom del Warden
+
 
 [SHG](https://github.com/WinlandAtlas/SquidHaxGames/blob/main/ResourcePacks/shgGuiAndFixesByWincohax.zip):
 
-- Botones,
+- [Botones](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/57808c8b-05e3-4196-b3f4-983f1e6632a6)
 
-- Interfaz de inventario,
+- [Interfaz de inventario,](https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/0bae108a-affa-4e85-a6c4-aace3b3e4ee5)
 
 - Modificaciones a bloques,
 
