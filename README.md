@@ -65,9 +65,7 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 
 # ¿Quieres Apoyarnos?
 
-Apóyanos en
-
-[<img src="https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/8fa44d8f-3e71-4eb2-acbc-d90fc3fd2bda" data-canonical-src="https://github.com/WinlandAtlas/SquidHaxGames/assets/100153287/8fa44d8f-3e71-4eb2-acbc-d90fc3fd2bda" width="250" height="81">](https://ko-fi.com/wincohax)
+Apóyanos en [Ko-Fi](https://ko-fi.com/wincohax)
 
 # TO DO README
 - IMGs and Links
