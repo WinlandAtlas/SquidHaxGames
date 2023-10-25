@@ -67,6 +67,41 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 
 Apóyanos en [Ko-Fi](https://ko-fi.com/wincohax)
 
-# TO DO README
-- IMGs and Links
-- Credits
+# Creditos a:
+
+Squid Hax Games
+Creador (Idea original): CarlitosOrig
+
+Líder de Proyecto:
+CarlitosOrig
+
+Ideas de Minijuegos:
+CarlitosOrig
+Wincohax
+TwistedWar3714
+
+Mecanismos Principales de los Minijuegos:
+Playxs
+Wincohax
+TwistedWar3714
+Locura2233
+Kelimporta
+
+Construcción:
+Playxs
+Wincohax
+TwistedWar3714
+Locura2233
+CarlitosOrig
+Sarbo2523
+Kelimporta
+
+Logo Principal:
+Wincohax
+
+Custom Client:
+Wincohax
+
+Fondo de Pantalla:
+Playxs
+
