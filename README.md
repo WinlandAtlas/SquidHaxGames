@@ -65,7 +65,7 @@ Por cuestiones legales no podemos dar los binarios de estos, sin embargo, en la 
 
 # ¿Quieres Apoyarnos?
 
-Apóyanos en [Ko-Fi](https://ko-fi.com/wincohax)
+[<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea1a_kofi_short_button_dark%25402x-p-500.png" width="250" height="81">](https://ko-fi.com/wincohax)
 
 # Creditos a:
 
